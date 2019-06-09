@@ -9,4 +9,4 @@ Technologies Used:
   
   Here you can see also how to save data and retrieve them from Core Data xcdatamodel inside Swift. 
   
-  ![](blackList.git)
+  ![](blackList.gif)
