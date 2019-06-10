@@ -8,5 +8,5 @@ Technologies Used:
   - Core Data
   
   Here you can see also how to save data and retrieve them from Core Data xcdatamodel inside Swift. 
-  
-  ![](blackList.gif)
+ 
+#### Click on DEMO.mp4 to download the live preview.
